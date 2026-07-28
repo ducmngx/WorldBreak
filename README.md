@@ -1,2 +1,2 @@
 # WorldBreak
-A Failure-condition World Model
+A Failure-conditioned World Model
